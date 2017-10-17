@@ -1,6 +1,10 @@
 PROJECT TITLE: Text Comparison Project
 PURPOSE OF PROJECT: To test the efficiency of different data structures.
 
+There are four versions for this assignment. They are sorted arrays, unsorted arrays,
+hash tables and binary trees. Each of these data structures where coded by hand
+without the use of libraries.
+
 In each of the versions, the program takes in two text files as input.
 In this project we used long texts from books, so it would take some time
 to complete.
@@ -20,7 +24,3 @@ In this project it was found that Hash Tables were the top data structure to imp
 for this problem. This is because the program does not need to iterate through many
 values before it gets to the result. It can basicallty just use a locker number to find
 the values.
-
-
-Also, each of the data structures in the assignment were created by hand without the use
-of different libraries.
